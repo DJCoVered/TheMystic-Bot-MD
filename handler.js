@@ -1455,13 +1455,13 @@ export async function deleteUpdate(message) {
         if (chat.delete)
             return
         await this.reply(msg.chat, `
-━━━━⬣  𝘼𝙉𝙏𝙄 𝘿𝙀𝙇𝙀𝙏𝙀  ⬣━━━━
-*■ Nombre:* @${participant.split`@`[0]}
-*■ Enviando el mensaje..*
-*■ Para desactivar esta función escriba el comando:*
-*—◉ #disable antidelete*
-*—◉ #enable delete*
-━━━━⬣  𝘼𝙉𝙏𝙄 𝘿𝙀𝙇𝙀𝙏𝙀  ⬣━━━━
+━━━━━━━━✦⛓️𝘼𝙉𝙏𝙄🍒𝘿𝙀𝙇𝙀𝙏𝙀⛓️✦━━━━━━━━━━━━━━
+*🍒┊➤ Nombre:* @${participant.split`@`[0]}
+*🍒┊➤ Enviando el mensaje..*
+*🍒┊➤ Para desactivar esta función escriba el comando:*
+*🍒┊➤ #disable antidelete*
+*🍒┊➤ #enable delete*
+━━━━━━━━✦⛓️𝘼𝙉𝙏𝙄🍒𝘿𝙀𝙇𝙀𝙏𝙀⛓️✦━━━━━━━━━━━━━━
 `.trim(), msg, {
             mentions: [participant]
         })
