@@ -4,7 +4,6 @@ let str = `*𝙷𝙾𝙻𝙰 𝚄𝚂𝚄𝙰𝚁𝙸𝙾 👋🏻, 𝚃𝙴 �
 
 *➤ 𝙶𝚛𝚞𝚙𝚘𝚜 𝚘𝚏𝚒𝚌𝚒𝚊𝚕𝚎𝚜 𝚍𝚎𝚕 𝙱𝚘𝚝:*
 
-*5.-* https://chat.whatsapp.com/H7NUXdrGlFg20ae3bqgwlb`.trim()
 await conn.sendFile(m.chat, media, 'mystic.jpg', str)}
 handler.command = /^linkgc|grupos$/i
 export default handler
