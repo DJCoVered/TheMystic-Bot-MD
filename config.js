@@ -8,19 +8,19 @@ import axios from 'axios'
 import moment from 'moment-timezone' 
 
 global.owner = [
-  ['12342722338', '👑 CoVered - Creador 👑', true],
-  ['12537507270', '💫 CoVered - Numero Oficial Del Bot  💫', true],
-  ['595983700184', '💫 CoVered - Collaborator 1 💫', true],
-  ['526188154961', '💫 CoVered - Collaborator 2 💫', true],
+  ['12342722338', '👑 Defqon.1 - Creador 👑', true],
+  ['12537507270', '💫 Defqon.1 - Numero Oficial Del Bot  💫', true],
+  ['50247551747', '💫 Defqon.1 - Collaborator 1 💫', true],
+  ['51929541955', '💫 Defqon.1 - Collaborator 2 💫', true],
 ] 
 
-global.suittag = ['5219993404349'] 
-global.prems = ['51995386439'] 
+global.suittag = ['12342722338'] 
+global.prems = ['12342722338'] 
 
-global.packname = '(☞ﾟ∀ﾟ)☞'
-global.author = '★CoVered - Bot★'
-global.wm = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
-global.igfg = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
+global.packname = '🔥⃟➪𝐂⃜͢𝐎𝐕 ͞𝐄𝐑𝐄𝐃᜴ᜲ⃝⃨⿻ܓ'
+global.author = '🔥⃝ᴅ͢ᴇᷨғͦǫͭ͢ᴏɴ.1͢🔥⃝'
+global.wm = '🔥⃝ᴅ͢ᴇᷨғͦǫͭ͢ᴏɴ.1͢🔥⃝'
+global.igfg = '🔥⃝ᴅ͢ᴇᷨғͦǫͭ͢ᴏɴ.1͢🔥⃝'
 global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg')
@@ -39,9 +39,9 @@ global.mes = d.toLocaleDateString('es', { month: 'long' })
 global.año = d.toLocaleDateString('es', { year: 'numeric' })
 global.tiempo = d.toLocaleString('en-US', { hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true })
 //*****************************
-global.wm2 = `▸ ${dia} ${fecha}\n▸ 𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝`
-global.gt = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
-global.mysticbot = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
+global.wm2 = `▸ ${dia} ${fecha}\n▸ Defqon.1 - Bot`
+global.gt = '🔥⃝ᴅ͢ᴇᷨғͦǫͭ͢ᴏɴ.1͢🔥⃝'
+global.mysticbot = '🔥⃝ᴅ͢ᴇᷨғͦǫͭ͢ᴏɴ.1͢🔥⃝'
 global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD'
 global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD'
 global.waitt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
