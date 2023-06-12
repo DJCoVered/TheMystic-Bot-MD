@@ -2,13 +2,13 @@ let handler = async (m, { conn, usedPrefix }) => {
 var doc = ['pdf','zip','vnd.openxmlformats-officedocument.presentationml.presentation','vnd.openxmlformats-officedocument.spreadsheetml.sheet','vnd.openxmlformats-officedocument.wordprocessingml.document']
 var document = doc[Math.floor(Math.random() * doc.length)]    
 let text = `
-*—◉ 𝑬𝑳 𝑵𝑼𝑴𝑬𝑹𝑶 𝑫𝑬𝑳 𝑪𝑹𝑬𝑨𝑫𝑶𝑹 𝑬𝑺: wa.me/12342722338*
+*—◉ 𝑬𝑳 𝑵𝑼𝑴𝑬𝑹𝑶 𝑫𝑬𝑳 𝑪𝑹𝑬𝑨𝑫𝑶𝑹 𝑬𝑺: wa.me/50247551747*
 
-*—◉ 𝑬𝑳 𝑵𝑼𝑴𝑬𝑹𝑶 𝑫𝑬𝑳 𝑩𝑶𝑻 𝑶𝑭𝑰𝑪𝑰𝑨𝑳 𝑬𝑺: wa.me/12537507270*
+*—◉ 𝑬𝑳 𝑵𝑼𝑴𝑬𝑹𝑶 𝑫𝑬𝑳 𝑩𝑶𝑻 𝑶𝑭𝑰𝑪𝑰𝑨𝑳 𝑬𝑺: wa.me/50247551747*
 
-*—◉ 𝑬𝑳 𝑵𝑼𝑴𝑬𝑹𝑶 𝑫𝑬𝑳 𝑪𝑶𝑳𝑨𝑩𝑶𝑹𝑨𝑫𝑶𝑹 𝑬𝑺 1: wa.me/50247551747*
+*—◉ 𝑬𝑳 𝑵𝑼𝑴𝑬𝑹𝑶 𝑫𝑬𝑳 𝑪𝑶𝑳𝑨𝑩𝑶𝑹𝑨𝑫𝑶𝑹 𝑬𝑺 1: wa.me/12342722338*
 
-*—◉ 𝑬𝑳 𝑵𝑼𝑴𝑬𝑹𝑶 𝑫𝑬𝑳 𝑪𝑶𝑳𝑨𝑩𝑶𝑹𝑨𝑫𝑶𝑹 𝑬𝑺 2: wa.me/51929541955*
+*—◉ 𝑬𝑳 𝑵𝑼𝑴𝑬𝑹𝑶 𝑫𝑬𝑳 𝑪𝑶𝑳𝑨𝑩𝑶𝑹𝑨𝑫𝑶𝑹 𝑬𝑺 2: wa.me/17633345183*
 `.trim()   
 let buttonMessage= {
 'document': { url: `https://github.com/BrunoSobrino/TheMystic-Bot-MD` },
