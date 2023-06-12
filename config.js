@@ -8,19 +8,18 @@ import axios from 'axios'
 import moment from 'moment-timezone' 
 
 global.owner = [
-  ['12342722338', '👑 Defqon.1 - Creador 👑', true],
-  ['12537507270', '💫 Defqon.1 - Numero Oficial Del Bot  💫', true],
-  ['50247551747', '💫 Defqon.1 - Collaborator 1 💫', true],
-  ['51929541955', '💫 Defqon.1 - Collaborator 2 💫', true],
+  ['50247551747', '👑 The Forest - Creador 👑', true],
+  ['12342722338', '💫 The Forest - Collaborator 1  💫', true],
+  ['17633345183', '💫 The Forest- Collaborator 2 💫', true],
 ] 
 
 global.suittag = ['12342722338'] 
 global.prems = ['12342722338'] 
 
-global.packname = '🔥⃟➪𝐂⃜͢𝐎𝐕 ͞𝐄𝐑𝐄𝐃᜴ᜲ⃝⃨⿻ܓ'
-global.author = '🔥⃝ᴅ͢ᴇᷨғͦǫͭ͢ᴏɴ.1͢🔥⃝'
-global.wm = '🔥⃝ᴅ͢ᴇᷨғͦǫͭ͢ᴏɴ.1͢🔥⃝'
-global.igfg = '🔥⃝ᴅ͢ᴇᷨғͦǫͭ͢ᴏɴ.1͢🔥⃝'
+global.packname = 'The Forest'
+global.author = 'Bliz'
+global.wm = 'Bliz'
+global.igfg = 'Bliz'
 global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg')
