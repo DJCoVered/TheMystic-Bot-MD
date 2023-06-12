@@ -1,7 +1,7 @@
 {
-    "name": "Defqon.1-Bot-Md",
+    "name": "TheForest-Bot-MD",
     "version": "1.0.0",
-    "description": "Tu Bot Harder El Unico Que Existe",
+    "description": "The Forest Bot El Mejor Que Existe",
     "main": "index.js",
     "type": "module",
     "directories": {
