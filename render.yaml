@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: defqon.1-bot-md
+    name: theforest-bot-md
     env: docker
     region: Frankfurt
     plan: free
